@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg preserveAspectRatio="none" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 392 551" style="enable-background:new 0 0 392 551;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;fill-opacity:5.000000e-02;}
+	.st1{fill:none;stroke:url(#SVGID_1_);stroke-width:4;}
+	.st2{fill:none;stroke:url(#SVGID_00000000909277087591752880000004501367730531926936_);stroke-width:4;}
+</style>
+<g>
+	<path shape-rendering="crispEdges" class="st0" d="M2,549V57C2,26.6,26.6,2,57,2h333v489c0,32-26,58-58,58H2z"/>
+	
+		<radialGradient id="SVGID_1_" cx="-106.9087" cy="680.2994" r="1" gradientTransform="matrix(-202.2606 356.8403 308.8241 175.0446 -231329.4062 -80940.7969)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFF9"/>
+		<stop  offset="1" style="stop-color:#FFFFF9;stop-opacity:0"/>
+	</radialGradient>
+	<path shape-rendering="crispEdges" class="st1" d="M2,549V57C2,26.6,26.6,2,57,2h333v489c0,32-26,58-58,58H2z"/>
+	
+		<radialGradient id="SVGID_00000169560356315514366080000006078809278818972811_" cx="-107.1034" cy="679.674" r="1" gradientTransform="matrix(184.847 -361.537 -285.6317 -146.0381 213914.6719 61155.8789)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFF9"/>
+		<stop  offset="1" style="stop-color:#FFFFF9;stop-opacity:0"/>
+	</radialGradient>
+	
+		<path shape-rendering="crispEdges" style="fill:none;stroke:url(#SVGID_00000169560356315514366080000006078809278818972811_);stroke-width:4;" d="
+		M2,549V57C2,26.6,26.6,2,57,2h333v489c0,32-26,58-58,58H2z"/>
+</g>
+</svg>

@@ -1,0 +1,477 @@
+/*////////////////////////////////////////////////////// Responsive CSS Structure //////////////////////////////////////////////////////*/
+@media (min-width: 1200px) and (max-width: 1920px){
+}
+
+@media (min-width: 1400px) and (max-width: 1499px){
+}
+
+@media (min-width: 1400px){
+.header .container { max-width: 1370px; }
+.container.container-1370 { max-width: 1370px; }
+.container { max-width: 1280px; }
+
+/* footer */
+.footer { padding-top: 50px; padding-bottom: 50px; }
+/* footer */
+}
+
+@media (min-width: 1300px) and (max-width: 1399px){
+.main-page-title { font-size: 85px; line-height: 100px; margin-bottom: 100px; }
+.main-page-title:before { font-size: 275px; line-height: 350px; }
+.main-title { font-size: 75px; line-height: 90px; }
+
+/* header */
+.navbar-nav .nav-item { margin: 0 25px; }
+/* header */
+
+/* x-map page */
+.map-title-section { padding-top: 50px; padding-bottom: 100px; }
+.map-folders-section .map-folders-list { padding: 75px 50px 40px; }
+/* x-map page */
+
+/* partners page */
+.partners-section { padding-bottom: 175px; }
+.partners-section .partners-list .row { margin: 0 -25px; }
+.partners-section .partners-list .row > * { padding: 0 25px; }
+.partners-section .partners-robot-img { width: 375px; }
+/* partners page */
+
+/* the-city page */
+.factions-section { padding-bottom: 300px; }
+.factions-section .factions-description { padding: 60px 75px; }
+.factions-section .factions-content .row { margin: 0 -15px; }
+.factions-section .factions-content .row > * { padding: 0 15px; }
+/* the-city page */
+
+/* caly-x-capital page */
+.caly-x-capital-section { padding-bottom: 75px; }
+.caly-capital-tabing .tab-content { padding: 70px 25px 0; }
+.overview-tab-section .overview-tab-detail-list { margin-bottom: 50px; }
+.overview-tab-section .overview-tab-detail .overview-tab-robot { width: 200px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail .capital-work-shadow { margin-top: 35px; }
+.portfolio-tab-section .portfolio-tab-content > .row { margin: 0 -35px; }
+.portfolio-tab-section .portfolio-tab-content > .row > * { padding: 0 35px; }
+.portfolio-tab-section .portfolio-tab-block .portfolio-tab-image { margin-bottom: 40px; }
+.faq-tab-section .faq-tab-robot { width: 300px; }
+/* caly-x-capital page */
+
+/* portfolio-detail page */
+.porfolio-detail-section { padding-bottom: 70px; }
+.porfolio-detail-section .portfolio-title .block-title { margin-bottom: 30px; }
+.porfolio-detail-section .portfolio-title { margin-bottom: 70px; }
+.porfolio-detail-section .porfolio-list .row { margin: 0 -35px; }
+.porfolio-detail-section .porfolio-list .row > * { padding: 0 35px; }
+/* portfolio-detail page */
+
+/* footer */
+.footer { padding-top: 50px; padding-bottom: 50px; }
+/* footer */
+}
+
+@media (min-width: 1200px) and (max-width: 1299px){
+.main-page-title { font-size: 85px; line-height: 100px; margin-bottom: 100px; }
+.main-page-title:before { font-size: 275px; line-height: 350px; }
+.main-title { font-size: 75px; line-height: 90px; }
+
+/* header */
+.navbar-nav .nav-item { margin: 0 20px; }
+/* header */
+
+/* x-map page */
+.map-title-section { padding-top: 50px; padding-bottom: 100px; }
+.map-folders-section .map-folders-list { padding: 75px 50px 40px; }
+/* x-map page */
+
+/* partners page */
+.partners-section { padding-bottom: 175px; }
+.partners-section .partners-list .row { margin: 0 -25px; }
+.partners-section .partners-list .row > * { padding: 0 25px; }
+.partners-section .partners-robot-img { width: 375px; }
+/* partners page */
+
+/* the-city page */
+.factions-section { padding-bottom: 300px; }
+.factions-section .factions-description { padding: 60px 75px; }
+.factions-section .factions-content .row { margin: 0 -15px; }
+.factions-section .factions-content .row > * { padding: 0 15px; }
+/* the-city page */
+
+/* caly-x-capital page */
+.caly-x-capital-section { padding-bottom: 75px; }
+.caly-capital-tabing .tab-content { padding: 70px 25px 0; }
+.overview-tab-section .overview-tab-detail-list { margin-bottom: 50px; }
+.overview-tab-section .overview-tab-detail .overview-tab-robot { width: 200px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail .capital-work-shadow { margin-top: 35px; }
+.portfolio-tab-section .portfolio-tab-content > .row { margin: 0 -35px; }
+.portfolio-tab-section .portfolio-tab-content > .row > * { padding: 0 35px; }
+.portfolio-tab-section .portfolio-tab-block .portfolio-tab-image { margin-bottom: 40px; }
+.faq-tab-section .faq-tab-robot { width: 300px; }
+/* caly-x-capital page */
+
+/* portfolio-detail page */
+.porfolio-detail-section { padding-bottom: 70px; }
+.porfolio-detail-section .portfolio-title .block-title { margin-bottom: 30px; }
+.porfolio-detail-section .portfolio-title { margin-bottom: 70px; }
+.porfolio-detail-section .porfolio-list .row { margin: 0 -35px; }
+.porfolio-detail-section .porfolio-list .row > * { padding: 0 35px; }
+/* portfolio-detail page */
+}
+
+@media (min-width: 1200px) {
+/* footer */
+.footer .container { max-width: 1130px; }
+/* footer */
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+.main-page-title { font-size: 75px; line-height: 100px; margin-bottom: 100px; }
+.main-page-title:before { font-size: 275px; line-height: 350px; }
+.common-social-icons ul li { margin: 0 10px !important; }
+.main-title { font-size: 60px; line-height: 75px; }
+.section-title { font-size: 50px; line-height: 65px; }
+body { padding-bottom: 225px; }
+
+/* header */
+.navbar-nav .nav-item { margin: 0 10px; }
+/* header */
+
+/* identity page */
+.identity-section .identity-form { padding: 30px 50px; }
+/* identity page */
+
+/* x-map page */
+.map-title-section { padding-top: 50px; padding-bottom: 100px; }
+.map-folders-section .map-folders-list { padding: 50px 50px 20px; }
+.map-folders-section .map-folders-block:before { height: 24px; }
+.map-folders-section .map-folders-list .row > *:nth-child(even) .map-folders-block:after { top: 12px; bottom: -12px; }
+/* x-map page */
+
+/* partners page */
+.partners-section { padding-bottom: 150px; }
+.partners-section .partners-title { margin-bottom: 35px; }
+.partners-section .partners-list .row { margin: 0 -20px; }
+.partners-section .partners-list .row > * { padding: 0 20px; }
+.partners-section .partners-robot-img { width: 300px; }
+.partners-block { margin-bottom: 50px; }
+.partners-block .detail p { margin-bottom: 25px; }
+/* partners page */
+
+/* the-city page */
+.factions-section { padding-bottom: 100px; }
+.factions-section .factions-description { padding: 50px 65px; }
+.factions-section .factions-content .row { margin: 0 -15px; }
+.factions-section .factions-content .row > * { padding: 0 15px; }
+/* the-city page */
+
+/* about page */
+.about-section { padding-bottom: 75px; }
+.about-section .about-content .about-list { padding: 50px; }
+.about-section .block-title { font-size: 35px; line-height: 42px; }
+/* about page */
+
+/* caly-x-capital page */
+.caly-x-capital-section { padding-top: 125px; padding-bottom: 75px; }
+.caly-capital-tabing .tab-content { padding: 70px 25px 0; }
+.overview-tab-section .capital-buttons { margin-bottom: 50px; }
+.overview-tab-section .capital-buttons a { margin: 0 10px; }
+.overview-tab-section .overview-tab-detail-list { margin-bottom: 50px; }
+.overview-tab-section .overview-tab-detail .overview-tab-robot { width: 200px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail .capital-work-shadow { margin-top: 35px; }
+.overview-tab-section .overview-tab-detail-list .row { margin: 0 -20px; }
+.overview-tab-section .overview-tab-detail-list .row > * { padding: 0 20px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail > .row { margin: 0 -20px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail > .row > * { padding: 0 20px; }
+.mint-caly-nft-flow .mint-caly-nft-title .mint-nft-flow-block:before,
+.mint-caly-nft-flow .mint-caly-nft-title .mint-nft-flow-block:after { width: 135px; height: 25px; }
+.portfolio-tab-section .portfolio-tab-content > .row { margin: 0 -35px; }
+.portfolio-tab-section .portfolio-tab-content > .row > * { padding: 0 35px; }
+.portfolio-tab-section .portfolio-tab-block .portfolio-tab-image { height: 500px; margin-bottom: 30px; }
+.faq-tab-section .faq-tab-robot { width: 275px; }
+.faq-tab-section .faq-tab-content > .row { margin: 0 -35px; }
+.faq-tab-section .faq-tab-content > .row > * { padding: 0 35px; }
+.faq-tab-section .faq-tab-block { margin-bottom: 70px; }
+/* caly-x-capital page */
+
+/* portfolio-detail page */
+.porfolio-detail-section { padding-bottom: 70px; }
+.porfolio-detail-section .portfolio-title .block-title { margin-bottom: 30px; }
+.porfolio-detail-section .portfolio-title { margin-bottom: 70px; }
+.porfolio-detail-section .porfolio-list .row { margin: 0 -35px; }
+.porfolio-detail-section .porfolio-list .row > * { padding: 0 35px; }
+/* portfolio-detail page */
+
+/* footer */
+.footer { padding-top: 40px; padding-bottom: 20px; }
+.footer .f-right > .row { margin: 0 -15px; }
+.footer .f-right > .row > * { padding: 0 15px; }
+.footer .f-right > .row > *:before { height: calc(100% - 25px); }
+.footer .f-navigation ul li { margin-bottom: 25px; }
+/* footer */
+}
+
+@media (max-width: 991px){
+/* navigation */
+.header { padding-top: 15px; padding-bottom: 15px; }
+.navbar .navbar-collapse { display: block; position: fixed; left: 0; right: 0; top: -200%; width: 100%; height: 100vh; overflow: auto; padding: 100px 15px 50px; background-color: #000000; transition: 0.4s; -webkit-transition: 0.4s; -moz-transition: 0.4s; -ms-transition: 0.4s; -o-transition: 0.4s; }
+/* .header.h-stick .navbar .navbar-collapse { top: 63px; height: calc(100vh - 63px); } */
+.navbar .navbar-collapse.show { top: 0; }
+.navbar .navbar-collapse.show:before { position: fixed; content: ""; left: 0; right: 0; top: 0; height: 90px; background: #000000; z-index: 9; }
+.navbar-nav { align-items: center; }
+.navbar .common-social-icons { margin-top: 25px; }
+.navbar .common-social-icons ul { justify-content: center; }
+.navbar-nav .nav-item { margin: 15px 0; }
+.navbar-nav .nav-item .nav-link { display: inline-block; padding: 0 !important; }
+/* navigation */
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+.main-page-title { font-size: 65px; line-height: 85px; margin-bottom: 75px; }
+.main-page-title:before { font-size: 250px; line-height: 325px; }
+.main-title { font-size: 50px; line-height: 65px; }
+.section-title { font-size: 42px; line-height: 60px; margin-bottom: 35px; }
+.block-title { font-size: 35px; line-height: 42px; margin-bottom: 30px; }
+body { padding-bottom: 0; }
+.btn { font-size: 12px; line-height: 28px; padding: 12px 20px; }
+
+/* identity page */
+.identity-section .identity-form { padding: 30px 50px; }
+/* identity page */
+
+/* x-map page */
+.map-title-section { padding-top: 50px; padding-bottom: 100px; }
+.map-folders-section .map-folders-list { padding: 50px 50px 20px; }
+.map-folders-section .map-folders-content { padding: 0 15px; }
+.map-folders-section .map-folders-block { padding: 0; margin-bottom: 50px; }
+.map-folders-section .map-folders-block:before { display: none; bottom: 0; width: 24px; height: 100%; right: auto; transform: rotate(180deg); -webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); -ms-transform: rotate(180deg); -o-transform: rotate(180deg); }
+.map-folders-section .map-folders-block:after { display: none; }
+.map-folders-section .map-folders-block .map-folders-title { margin-bottom: 25px; }
+.map-folders-section .map-folders-block .map-folders-detail { opacity: 1; }
+/* x-map page */
+
+/* partners page */
+.partners-section { padding-bottom: 75px; }
+.partners-section .partners-title { margin-bottom: 35px; }
+.partners-section .partners-list .row { margin: 0 -20px; }
+.partners-section .partners-list .row > * { padding: 0 20px; }
+.partners-section .partners-robot-img { width: 300px; }
+.partners-block { margin-bottom: 50px; }
+.partners-block .detail p { margin-bottom: 25px; }
+/* partners page */
+
+/* the-city page */
+.factions-section { padding-bottom: 100px; }
+.factions-section .factions-description { padding: 35px; }
+.factions-section .factions-content .row { margin: 0 -15px; }
+.factions-section .factions-content .row > * { padding: 0 15px; }
+.factions-section .factions-block .factions-title { font-size: 15px; margin-bottom: 30px; }
+.factions-section .factions-block .factions-image:before,
+.factions-section .factions-block .factions-detail { opacity: 1; }
+/* the-city page */
+
+/* about page */
+.about-section { padding-top: 125px; padding-bottom: 50px; }
+.about-section .about-content .about-list { padding: 50px 25px; }
+.about-section .block-title { font-size: 35px; line-height: 42px; }
+.about-section .about-content .about-block { margin-bottom: 35px; }
+/* about page */
+
+/* caly-x-capital page */
+.caly-x-capital-section { padding-top: 125px; padding-bottom: 50px; }
+.caly-capital-tabing .tab-content { padding: 70px 25px 0; }
+.overview-tab-section .capital-buttons { margin-bottom: 50px; }
+.overview-tab-section .capital-buttons a { margin: 0 10px; }
+.overview-tab-section .overview-tab-detail-list { margin-bottom: 35px; }
+.overview-tab-section .overview-tab-detail .overview-tab-robot { width: 150px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail .capital-work-shadow { margin-top: 35px; }
+.overview-tab-section .overview-tab-detail-list .row { margin: 0 -20px; }
+.overview-tab-section .overview-tab-detail-list .row > * { padding: 0 20px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail > .row { margin: 0 -20px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail > .row > * { padding: 0 20px; }
+.mint-caly-nft-flow .mint-caly-nft-title .mint-nft-flow-block:before,
+.mint-caly-nft-flow .mint-caly-nft-title .mint-nft-flow-block:after { width: 100px; height: 20px; }
+.portfolio-tab-section .portfolio-tab-content > .row { margin: 0 -20px; }
+.portfolio-tab-section .portfolio-tab-content > .row > * { padding: 0 20px; }
+.portfolio-tab-section .portfolio-tab-block .portfolio-tab-image { height: 400px; margin-bottom: 30px; }
+.faq-tab-section .faq-tab-robot { width: 250px; }
+.faq-tab-section .faq-tab-content > .row { margin: 0 -20px; }
+.faq-tab-section .faq-tab-content > .row > * { padding: 0 20px; }
+.faq-tab-section .faq-tab-block { margin-bottom: 50px; }
+/* caly-x-capital page */
+
+/* portfolio-detail page */
+.porfolio-detail-section { padding-bottom: 50px; }
+.porfolio-detail-section .portfolio-title .block-title { margin-bottom: 30px; }
+.porfolio-detail-section .portfolio-title { margin-bottom: 70px; }
+.porfolio-detail-section .porfolio-list .row { margin: 0 -20px; }
+.porfolio-detail-section .porfolio-list .row > * { padding: 0 20px; }
+/* portfolio-detail page */
+
+/* footer */
+.footer { position: relative; left: auto; right: auto; bottom: auto; padding-top: 35px; padding-bottom: 15px; }
+.footer .f-logo { margin-bottom: 30px; text-align: center; }
+.footer .f-logo img { width: 275px; }
+.footer .f-right > .row { margin: 0 -15px; }
+.footer .f-right > .row > * { padding: 0 15px; }
+.footer .f-right > .row > *:before { height: calc(100% - 25px); }
+.footer .f-navigation ul li { margin-bottom: 25px; }
+/* footer */
+}
+
+@media (min-width: 768px) {
+}
+
+@media (max-width: 767px) {
+.main-page-title { font-size: 45px; line-height: 65px; margin-bottom: 75px; }
+.main-page-title:before { font-size: 225px; line-height: 300px; }
+.main-title { font-size: 35px; line-height: 42px; margin-bottom: 15px; }
+.section-title { font-size: 30px; line-height: 38px; margin-bottom: 25px; }
+.block-title { font-size: 25px; line-height: 33px; margin-bottom: 20px; }
+.common-social-icons ul li { margin: 0 10px !important; }
+body { font-size: 14px; padding-top: 100px; padding-bottom: 0; }
+.btn { font-size: 12px; line-height: 28px; padding: 12px 20px; }
+.common-audion-player { top: 115px; }
+
+/* identity page */
+.identity-section .identity-form { padding: 30px 15px; }
+/* identity page */
+
+/* home page */
+.full-screen-caly-image img { height: 500px; object-fit: cover; font-family: 'object-fit: cover'; }
+/* home page */
+
+/* x-map page */
+.x-map-pg { padding-top: 200px; }
+.map-title-section { padding-top: 50px; padding-bottom: 50px; }
+.x-map-pg .content { padding-top: 50px; padding-bottom: 50px; }
+.map-folders-section .map-folders-content { padding: 0; background: none; }
+.map-folders-section .map-folders-list { padding: 0; background: none; }
+.map-folders-section .map-folders-block { padding: 0; margin-bottom: 50px; }
+.map-folders-section .map-folders-block .map-folders-title { font-size: 14px; line-height: 16px; }
+.map-folders-section .map-folders-block .map-folders-title *:before { font-size: 30px; margin-right: 10px; }
+.map-folders-section .map-folders-block:before { display: none; bottom: 0; width: 24px; height: 100%; right: auto; transform: rotate(180deg); -webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); -ms-transform: rotate(180deg); -o-transform: rotate(180deg); }
+.map-folders-section .map-folders-block:after { display: none; }
+.map-folders-section .map-folders-block .map-folders-title { margin-bottom: 25px; }
+.map-folders-section .map-folders-block .map-folders-detail { opacity: 1; }
+/* x-map page */
+
+/* partners page */
+.partners-section { padding-bottom: 50px; }
+.partners-section .partners-title { margin-bottom: 25px; }
+.partners-section .partners-list .row { margin: 0 -15px; }
+.partners-section .partners-list .row > * { padding: 0 15px; }
+.partners-section .partners-robot-img { width: 300px; }
+.partners-block { margin-bottom: 30px; }
+.partners-block .detail p { margin-bottom: 15px; }
+/* partners page */
+
+/* the-city page */
+/* .banner-section { margin-bottom: 30px; } */
+.banner-section .banner-description { position: relative; left: auto; right: auto; top: auto; margin-bottom: 20px; transform: none; -webkit-transform: none; -moz-transform: none; -ms-transform: none; -o-transform: none; }
+.banner-section .city-banne-icons img { margin: 0 10px; width: 50px; }
+.factions-section { padding-bottom: 30px; }
+.factions-section .factions-description { padding: 35px 0; background: none; }
+.factions-section .factions-content .row { margin: 0 -15px; }
+.factions-section .factions-content .row > * { padding: 0 15px; }
+.factions-section .factions-block .factions-title { margin-bottom: 30px; }
+.factions-section .factions-block .factions-image { height: auto; }
+.factions-section .factions-block .factions-image:before,
+.factions-section .factions-block .factions-detail { opacity: 1; }
+/* the-city page */
+
+/* about page */
+.about-section { padding-top: 150px; padding-bottom: 0; }
+.about-section .about-content .about-content-detail { padding: 0; background: none; }
+.about-section .about-content .about-list { padding: 50px 0; }
+.about-section .about-images { margin-bottom: 30px; }
+.about-section .block-title { font-size: 25px; line-height: 33px; margin-bottom: 25px; }
+.about-section .about-content .about-block { margin-bottom: 25px; }
+/* about page */
+
+/* caly-x-capital page */
+.caly-x-capital-section { padding-top: 35px; padding-bottom: 35px; }
+.overview-tab-section .overview-tab-detail-list { margin-bottom: 35px; }
+.overview-tab-section .overview-tab-detail .overview-tab-robot { width: 150px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail .capital-work-shadow { margin-top: 35px; }
+.overview-tab-section .overview-tab-detail-list .row { margin: 0 -20px; }
+.overview-tab-section .overview-tab-detail-list .row > * { padding: 0 20px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail > .row { margin: 0 -20px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail > .row > * { padding: 0 20px; }
+.mint-caly-nft-flow .mint-caly-nft-title .mint-nft-flow-block:before,
+.mint-caly-nft-flow .mint-caly-nft-title .mint-nft-flow-block:after { width: 100px; height: 20px; display: none; }
+/* caly-x-capital page */
+
+/* caly-x-capital page */
+.caly-x-capital-section { padding-top: 125px; padding-bottom: 50px; }
+.caly-capital-tabing .nav-tabs { justify-content: center; padding: 0; margin: 0 -10px; background: none; }
+.caly-capital-tabing .nav-tabs .nav-item { padding: 0 10px; }
+.caly-capital-tabing .nav-tabs .nav-item .nav-link .icon img { width: 35px; }
+.caly-capital-tabing .tab-content { padding: 50px 0 0; }
+.overview-tab-section .capital-buttons { display: flex; flex-direction: column; align-items: center; margin-bottom: 50px; }
+.overview-tab-section .capital-buttons a { margin: 0 0 10px; }
+.overview-tab-section .overview-tab-detail-list { margin-bottom: 35px; }
+.overview-tab-section .overview-tab-detail .overview-tab-robot { width: 125px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail .overview-capital-inner-block { margin-bottom: 20px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail .capital-work-shadow { margin-top: 20px; padding: 25px 15px; }
+.overview-tab-section .overview-tab-detail-list .row { margin: 0 -15px; }
+.overview-tab-section .overview-tab-detail-list .row > * { padding: 0 15px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail > .row { margin: 0 -15px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail > .row > * { padding: 0 15px; }
+.mint-caly-nft-flow .mint-caly-nft-title .mint-nft-flow-block:before,
+.mint-caly-nft-flow .mint-caly-nft-title .mint-nft-flow-block:after { width: 100px; height: 20px; }
+.mint-caly-nft-flow .mint-caly-nft-detail { margin-top: 20px; max-width: 100%; }
+.mint-caly-nft-flow .mint-nft-flow-block { padding: 15px 25px; }
+.overview-tab-section .overview-capital-work .overview-capital-work-detail { padding-bottom: 30px; }
+.overview-tab-section .overview-nft-options-section .overview-nft-title { margin-bottom: 25px; }
+.mint-caly-nft-flow .mint-caly-nft-detail .detail { padding: 30px 15px; }
+.portfolio-tab-section .portfolio-tab-content > .row { margin: 0 -15px; }
+.portfolio-tab-section .portfolio-tab-content > .row > * { padding: 0 15px; }
+.portfolio-tab-section .portfolio-tab-block .portfolio-tab-image { height: auto; min-height: 350px; font-size: 150px; line-height: 150px; margin-bottom: 20px; }
+.faq-tab-section .faq-tab-robot { width: 150px; }
+.faq-tab-section .faq-tab-content > .row { margin: 0 -15px; }
+.faq-tab-section .faq-tab-content > .row > * { padding: 0 15px; }
+.faq-tab-section .faq-tab-block { margin-bottom: 35px; }
+/* caly-x-capital page */
+
+/* portfolio-detail page */
+.porfolio-detail-section { padding-bottom: 50px; }
+.porfolio-detail-section .portfolio-title .block-title { margin-bottom: 30px; }
+.porfolio-detail-section .portfolio-title { margin-bottom: 50px; }
+.porfolio-detail-section .porfolio-list .row { margin: 0 -15px; }
+.porfolio-detail-section .porfolio-list .row > * { padding: 0 15px; }
+/* portfolio-detail page */
+
+/* footer */
+.footer { position: relative; left: auto; right: auto; bottom: auto; padding-top: 25px; padding-bottom: 25px; }
+.footer .f-logo { margin-bottom: 30px; text-align: center; }
+.footer .f-logo img { width: 175px; }
+.footer .f-right > .row { margin: 0 -15px; }
+.footer .f-right > .row > * { padding: 0 15px; }
+.footer .f-right > .row > *:before { display: none; }
+.footer .f-navigation ul li { margin-bottom: 15px; }
+/* footer */
+}
+
+/*---------- Small Mobile , IPhone Start ----------*/
+
+/*=== Screen Size = 240, 320, 360, 480, 568 ===*/
+@media (min-width: 576px) and (max-width: 767px){
+}
+
+@media (min-width: 240px) and (max-width: 575px){
+.main-page-title { font-size: 27px; line-height: 42px; margin-bottom: 75px; }
+.main-page-title:before { font-size: 200px; line-height: 225px; }
+.small-block-title { font-size: 20px; line-height: 25px; margin-bottom: 30px; }
+.common-title-border { padding-bottom: 35px; }
+
+/* partners page */
+.partners-section { padding-top: 125px; padding-bottom: 35px; }
+.partners-section .partners-logo { margin-bottom: 30px; }
+.partners-block .partners-title { font-size: 16px; line-height: 20px; }
+/* partners page */
+
+/* footer */
+.footer .f-navigation ul { justify-content: center; }
+.footer .f-navigation ul li { justify-content: center; }
+/* footer */
+}
+/*---------- Large Desktop , Large Screen End ----------*/

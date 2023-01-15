@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" width="189" height="50" viewBox="0 0 189 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.99391" y="48.8635" width="47.7077" height="186.855" rx="8.94519" transform="rotate(-90 0.99391 48.8635)" fill="#FFFFF9" fill-opacity="0.03"/>
+<rect x="0.99391" y="48.8635" width="47.7077" height="186.855" rx="8.94519" transform="rotate(-90 0.99391 48.8635)" stroke="url(#paint0_radial_115_699)" stroke-width="1.98782"/>
+<rect x="0.99391" y="48.8635" width="47.7077" height="186.855" rx="8.94519" transform="rotate(-90 0.99391 48.8635)" stroke="url(#paint1_radial_115_699)" stroke-width="1.98782"/>
+<defs>
+<radialGradient id="paint0_radial_115_699" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(50.5486 237.179) rotate(-108.228) scale(103.643 62.121)">
+<stop stop-color="#FFFFF9"/>
+<stop offset="1" stop-color="#FFFFF9" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_115_699" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-6.39856 39.3722) rotate(69.9433) scale(95.7749 60.1397)">
+<stop stop-color="#FFFFF9"/>
+<stop offset="1" stop-color="#FFFFF9" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
