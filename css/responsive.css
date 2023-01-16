@@ -296,6 +296,8 @@ body { padding-bottom: 0; }
 .faq-tab-section .faq-tab-content > .row { margin: 0 -20px; }
 .faq-tab-section .faq-tab-content > .row > * { padding: 0 20px; }
 .faq-tab-section .faq-tab-block { margin-bottom: 50px; }
+.map-folders-section .map-folders-block .map-folders-title *:before { content: "\f07c"; }
+.map-folders-section .map-folders-block:hover .map-folders-title *:before { font-size: 50px; }
 /* caly-x-capital page */
 
 /* portfolio-detail page */
@@ -347,7 +349,8 @@ body { font-size: 14px; padding-top: 100px; padding-bottom: 0; }
 .map-folders-section .map-folders-list { padding: 0; background: none; }
 .map-folders-section .map-folders-block { padding: 0; margin-bottom: 50px; }
 .map-folders-section .map-folders-block .map-folders-title { font-size: 14px; line-height: 16px; }
-.map-folders-section .map-folders-block .map-folders-title *:before { font-size: 30px; margin-right: 10px; }
+.map-folders-section .map-folders-block .map-folders-title *:before { content: "\f07c"; font-size: 30px; margin-right: 10px; }
+.map-folders-section .map-folders-block:hover .map-folders-title *:before { font-size: 30px; }
 .map-folders-section .map-folders-block:before { display: none; bottom: 0; width: 24px; height: 100%; right: auto; transform: rotate(180deg); -webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); -ms-transform: rotate(180deg); -o-transform: rotate(180deg); }
 .map-folders-section .map-folders-block:after { display: none; }
 .map-folders-section .map-folders-block .map-folders-title { margin-bottom: 25px; }
