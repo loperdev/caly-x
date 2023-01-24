@@ -23,6 +23,7 @@
 <!--=== Add By Designer ===-->
 <link href="css/style.css" rel="stylesheet">
 <link href="fonts/fonts.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <link href="css/responsive.css" rel="stylesheet">
 <!-- slick -->
 <link href="css/slick.css" rel="stylesheet">
@@ -121,7 +122,7 @@
 							<div id="seek-bar"></div>
 						</div>
 					</div> -->
-					<div id="player-content">
+					<div id="player-content" data-aos="fade-up" data-aos-duration="4000">
 						<div id="album-art">
 							<div class="image active" id="_1">
 								<img src="images/audio-icons/runit.jpg" alt="album" class="img-fluid small-img">
@@ -242,8 +243,8 @@
 <!-- content start -->
 <div class="content">
 	<!-- banner -->
-	<div class="banner-section">
-		<div class="banner-image">
+	<div class="banner-section" data-aos="fade-up" data-aos-duration="4000">
+		<div class="banner-image" data-aos="fade-up">
 			<img src="images/the-city-banner.jpg" alt="the-city-banner" class="img-fluid">
 		</div>
 		<div class="banner-description">
@@ -273,7 +274,7 @@
 	<!-- banner -->
 
 	<!-- factions -->
-	<div class="factions-section">
+	<div class="factions-section" data-aos="fade-up" data-aos-duration="10000">
 		<div class="container">
 			<div class="factions-description common-section-background">
 				<div class="block-title">
@@ -281,7 +282,7 @@
 				</div>
 				<div class="factions-content">
 					<div class="row">
-						<div class="col-md-6 col-lg-6 col-xl-4 col-xxl-4">
+						<div class="col-md-6 col-lg-6 col-xl-4 col-xxl-4" data-aos="slide-right" data-aos-duration="10000">
 							<div class="factions-block">
 								<div class="factions-title">
 									<img src="images/factions-icon1.png" alt="factions-icon" class="img-fluid">
@@ -296,7 +297,7 @@
 							</div>
 						</div>
 
-						<div class="col-md-6 col-lg-6 col-xl-4 col-xxl-4">
+						<div class="col-md-6 col-lg-6 col-xl-4 col-xxl-4" data-aos="fade-up" data-aos-duration="10000">
 							<div class="factions-block">
 								<div class="factions-title">
 									<img src="images/factions-icon2.png" alt="factions-icon" class="img-fluid">
@@ -311,7 +312,7 @@
 							</div>
 						</div>
 
-						<div class="col-md-6 col-lg-6 col-xl-4 col-xxl-4">
+						<div class="col-md-6 col-lg-6 col-xl-4 col-xxl-4"data-aos="fade-up-left" data-aos-duration="4000">
 							<div class="factions-block">
 								<div class="factions-title">
 									<img src="images/factions-icon3.png" alt="factions-icon" class="img-fluid">
@@ -335,7 +336,7 @@
 <!-- content end -->
 
 <!-- footer start -->
-<footer class="footer">
+<footer class="footer" data-aos="fade-up" data-aos-duration="10000">
 	<div class="container">
 		<div class="f-content">
 			<div class="row">
@@ -407,5 +408,9 @@
 <!-- ofi -->
 <script src="js/ofi.min.js"></script>
 <script src="js/script.js"></script>
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
 </body>
 </html>

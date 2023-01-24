@@ -3,6 +3,17 @@
 
 /*---------- Google Fonts ----------*/
 
+
+
+.full-screen-caly-video {
+  position: relative;
+  overflow: hidden;
+}
+
+.video-fluid {
+  width: 100%;
+  height: auto;
+}
 html {
 	height: 100%;
 }
@@ -2828,3 +2839,32 @@ ul ol {
   color: #fff;
 }
 /* audio-player */
+/* Videoplayer css  */
+
+/* .video-fluid::-webkit-media-controls {
+  display: none !important;
+} */
+/* .video-fluid::-webkit-media-controls {
+  visibility: hidden !important;
+} */
+
+
+@media (min-width: 768px) {
+  .img-fluid-main {
+    display: none;
+  }
+
+  .video-fluid {
+    display: block;
+  }
+}
+
+@media (max-width: 767px) {
+  .video-fluid {
+    display: none;
+  }
+
+  .img-fluid-main {
+    display: block;
+  }
+}
