@@ -31,6 +31,7 @@ body{
 	height: auto;
 	padding-top: 125px;
 	padding-bottom: 290px;
+  overflow-y: auto;
 }
 
 /* body:before {
