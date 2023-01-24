@@ -119,8 +119,8 @@ $(document).ready(function() {
     buffInterval = null,
     tFlag = false,
     albums = [
-      "DJ Snake",
       "Astrid",
+      "Nightowl",
       "Lemay",
       "Rick Ross",
       "DJ Snake",
@@ -131,12 +131,12 @@ $(document).ready(function() {
       // "Proxy (Original Mix)"
     ],
     trackNames = [
-      "Run It",
       "The Encounter",
+      "Nightowl",
       "Lemay",
-      "Get Low",
+      "Formshift",
       "Purple Lamborghini",
-      "Let Me Love You",
+      "Money In The Grave",
       "Run It",
 	    // "Alex Skrindo - Me & You",
       // "Kaaze - Electro Boy",
@@ -150,10 +150,10 @@ $(document).ready(function() {
       // "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3",
       // "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
       // "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3"
-      "audio/DJ-Snake-Run-It.mp3",
       "audio/The Encounter.mp3",
+      "audio/Nightowl.mp3",
       "audio/Lemay - Digital Disaster.mp3",
-      "audio/DJ-Snake-Get-Low.mp3",
+      "audio/Formshift.mp3",
       "audio/Rick-Ross-Purple-Lamborghini.mp3",
       "audio/RickRoss-Money-In-The-Grave.mp3",
       "audio/DJ-Snake-Run-It.mp3",

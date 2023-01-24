@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-<title>Caly-X</title>
+<title>CALY-X</title>
 <meta name="description" content="" />
 <meta name="title" content="" />
 <meta name="keywords" content="" />
@@ -24,6 +24,8 @@
 <link href="css/style.css" rel="stylesheet">
 <link href="fonts/fonts.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
 <!-- slick -->
 <link href="css/slick.css" rel="stylesheet">
 <!-- fancybox -->
@@ -59,8 +61,8 @@
 </div> -->
 <!-- page-background -->
 <!-- common-audion-player -->
-<div class="common-audion-player">
-	<div class="container">
+<div class="common-audion-player"data-aos="fade-up" data-aos-duration="10000">
+	<div class="container"data-aos="fade-up" data-aos-duration="10000">
 		<div class="common-audion-player-detail">
 			<div class="audio-icon"></div>
 			<!-- <div class="player">
@@ -128,28 +130,28 @@
 					<div id="player-content">
 						<div id="album-art">
 							<div class="image active" id="_1">
-								<img src="images/audio-icons/runit.jpg" alt="album" class="img-fluid small-img">
-								<img src="images/audio-icons/runnit-large.jpg" alt="album" class="img-fluid large-img">
+								<img src="images/audio-icons/album-art.gif" alt="album" class="img-fluid small-img">
+								<img src="images/audio-icons/album-large.jpg" alt="album" class="img-fluid large-img">
 							</div>
 							<!-- <img src="https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg" class="active" id="_1"> -->
 							<div class="image" id="_2">
-								<img src="images/audio-icons/album-small.jpg" alt="album" class="img-fluid small-img">
+								<img src="images/audio-icons/album-art.gif" alt="album" class="img-fluid small-img">
 								<img src="images/audio-icons/album-large.jpg" alt="album" class="img-fluid large-img">
 							</div>
 							<div class="image" id="_3">
-								<img src="images/audio-icons/album-small.jpg" alt="album" class="img-fluid small-img">
+								<img src="images/audio-icons/album-art.gif" alt="album" class="img-fluid small-img">
 								<img src="images/audio-icons/album-large.jpg" alt="album" class="img-fluid large-img">
 							</div>
 							<div class="image" id="_4">
-								<img src="images/audio-icons/album-small.jpg" alt="album" class="img-fluid small-img">
+								<img src="images/audio-icons/album-art.gif" alt="album" class="img-fluid small-img">
 								<img src="images/audio-icons/album-large.jpg" alt="album" class="img-fluid large-img">
 							</div>
 							<div class="image" id="_5">
-								<img src="images/audio-icons/album-small.jpg" alt="album" class="img-fluid small-img">
+								<img src="images/audio-icons/album-art.gif" alt="album" class="img-fluid small-img">
 								<img src="images/audio-icons/album-large.jpg" alt="album" class="img-fluid large-img">
 							</div>
 							<div class="image" id="_6">
-								<img src="images/audio-icons/album-small.jpg" alt="album" class="img-fluid small-img">
+								<img src="images/audio-icons/album-art.gif" alt="album" class="img-fluid small-img">
 								<img src="images/audio-icons/album-large.jpg" alt="album" class="img-fluid large-img">
 							</div>
 							<!-- <div id="buffer-box">Buffering ...</div> -->
@@ -436,5 +438,9 @@
 <!-- ofi -->
 <script src="js/ofi.min.js"></script>
 <script src="js/script.js"></script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
 </body>
 </html>
