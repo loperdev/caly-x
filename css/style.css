@@ -1051,6 +1051,8 @@ ul ol {
 
 .navbar .navbar-collapse {
 	justify-content: space-around;
+  transition: all 0.5s ease-in-out;
+
 }
 
 .navbar-nav .nav-item {
