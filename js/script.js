@@ -7,7 +7,14 @@ $(document).ready(function() {
 		}
 	});
 
-// video player
+
+  /* page-loader */
+  $(window).on("load", function(){
+    setTimeout(() => {
+      $(".page-loader").fadeOut("slow");
+    }, 500);
+  });
+  /* page-loader */
 
 
 
