@@ -957,6 +957,32 @@ ul ol {
 	background-size: 100% 100%;
 }
 /* common-section-background2 */
+/* page-loader */
+.page-loader {
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #000000;
+	z-index: 9999;
+}
+
+.page-loader:before {
+	position: relative;
+	content: "";
+	background: url("../images/loader.svg") no-repeat;
+	background-size: 100% 100%;
+	width: 50px;
+	height: 50px;
+}
+/* page-loader */
+
+
+
 /*==================================================================*/
 /*========== Header Start ==========*/
 /*==================================================================*/
@@ -1053,6 +1079,7 @@ ul ol {
 
 .navbar .navbar-collapse {
 	justify-content: space-around;
+   margin-left: 69px;
   transition: all 0.5s ease-in-out;
 
 }
@@ -2872,3 +2899,43 @@ ul ol {
     display: block;
   }
 }
+
+
+.card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.team-img-fluid {
+  max-width: 100%;
+  height: auto
+}
+
+@media (max-width: 768px) {
+  .team-section {
+    flex-direction: column;
+  }
+
+  .team-img {
+    flex-basis: 100%;
+    margin-bottom: 20px;
+  }
+
+  br {
+    display: none;
+  }
+
+  .team-img-fluid {
+    display: none;
+  }
+}
+
+.team-section{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+ .team-section:hover {
+   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+ }
